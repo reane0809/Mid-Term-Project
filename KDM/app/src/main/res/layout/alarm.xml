@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:background="@drawable/bgr_me">
+        <!--집주소-->
+
+        <!--지하철-->
+
+        <!--백-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1.2"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="알람 시간"
+                    android:textColor="#9e5627"
+                    android:gravity="bottom"
+                    android:fontFamily="@font/gd"
+                    android:textSize="32sp">
+                </TextView>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:background="@drawable/ala"
+                android:gravity="center"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:gravity="center">
+                    <TimePicker
+                        android:id="@+id/TimePicker"
+                        android:gravity="center"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:timePickerMode="spinner"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="bottom"
+                    android:layout_weight="1">
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="60dp"
+                        android:text="저장"
+                        android:textColor="#000000"
+                        android:id="@+id/btn_refresh54"
+                        android:layout_gravity="center"
+                        android:background="#f4b183"
+                        android:layout_margin="7dp"
+                        android:layout_weight="0.6" />
+                    <Button
+                        android:layout_width="0dp"
+                        android:layout_height="60dp"
+                        android:text="발사"
+                        android:layout_margin="7dp"
+                        android:id="@+id/btn_refresh55"
+                        android:background="#f4b183"
+                        android:textColor="#000000"
+                        android:layout_gravity="center"
+                        android:layout_weight="0.6" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="25dp"
+                android:src="@drawable/sdm"
+                ></ImageView>
+
+        </LinearLayout>
+        </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
