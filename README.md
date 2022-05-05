@@ -43,7 +43,7 @@
 - 아두이노(센서, 모델링, 제어 등)
 - Wireshark: 네트워크 패킷 분석
 - Linux OS
-- NAS
+- NAS<hr/>
 
 # 💻Projects
 
@@ -54,6 +54,13 @@
 
 [Screenshots](https://github.com/reane0809/Mid-Term-Project/wiki/Screenshots) • [Download](https://github.com/reane0809/Mid-Term-Project/releases/tag/1.0) • [Manual](https://github.com/reane0809/Mid-Term-Project/blob/main/manual/ko.md) • [Docs](https://github.com/reane0809/Mid-Term-Project/blob/main/docs/%EA%B8%B0%ED%9A%8D-%EC%84%A4%EA%B3%84.pdf)
 
+### 개발 언어
+- C++ (for Arduino)   
+- Java11 (for Application)
+
+### 사용 api
+- 공공데이터포털 : [바로가기](https://www.data.go.kr/)   
+- 연합뉴스 RSS 서비스 : [바로가기](https://www.yonhapnewstv.co.kr/add/rss)
 
 ### 상세 기능
 |App|IoT센서|
@@ -64,13 +71,16 @@
 |메모|조명|
 |알람|출근|
 
-### 사용 api
-- 공공데이터포털 : [바로가기](https://www.data.go.kr/)   
-- 연합뉴스 RSS 서비스 : [바로가기](https://www.yonhapnewstv.co.kr/add/rss)
+역할:    
 
-### 개발 언어
-- C++ (for Arduino)   
-- Java11 (for Application)
+- 팀장 및 기획 및 발표
+- Application 개발
+- 아두이노 활용한 시제품 제작
+✅ api 통합 및 앱 빌드
+✅ 직관적인 UI
+✅ 슬립테크를 접목한 스마트홈 제어
+
+
 <hr/>
 
 ## 💎백준 알고리즘 연습 풀이 - Baekjoon-Practice
@@ -82,4 +92,3 @@
 - +@
 
 1일 1문제 풀이
-•
