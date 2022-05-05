@@ -91,4 +91,6 @@
 - java 사용 과정
 - +@
 
-1일 1문제 풀이
+1일 1문제 풀이 및 commit 목표
+![con1](https://user-images.githubusercontent.com/57868072/166904362-fa66cba0-4c39-4803-bb78-71be85b2749b.PNG)
+
