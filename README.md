@@ -37,7 +37,6 @@
 
 
 ## Other Experiences
-- Source Filmmaker(SFM)
 - 외부 API활용 (공공 API)
 - 라이브러리, 프레임워크 활용(Bootstrap)
 - 아두이노(센서, 모델링, 제어 등)
