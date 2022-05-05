@@ -55,3 +55,7 @@ https://user-images.githubusercontent.com/57868072/166886146-49b48fb2-8813-4319-
 ~~• 아두이노와 안드로이드 사이의 통신을 위한 블루투스 모듈(HC-06)을작동하는 과정에서 스마트폰-모듈간의 통신이 정상적으로 연결되지 않는 경우가 빈번하게 발생(코드 최적화 완료)~~
 
 ![image](https://user-images.githubusercontent.com/57868072/166887300-484487c2-218e-4113-bfd2-ea4bbf423b6d.png)
+    
+    
+    
+##### Contact) <reane0809@gmail.com>
